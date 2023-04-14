@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 currently working on Management Information Systems
+🔭 currently learning C#, and working on Management Information Systems
 👯 open to collaborating on Projects
-🌱 currently learning C#
+
 
 
 📫 [How to reach me](https://www.linkedin.com/in/eymen-efe-altun-a1681821b/)
