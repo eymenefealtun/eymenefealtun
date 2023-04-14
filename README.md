@@ -4,7 +4,7 @@
 🌱 currently learning C#
 
 
-📫 [How to reach me] (https://www.linkedin.com/in/eymen-efe-altun-a1681821b/)
+📫 [How to reach me](https://www.linkedin.com/in/eymen-efe-altun-a1681821b/)
 <!--
 **XleRach/Xlerach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
