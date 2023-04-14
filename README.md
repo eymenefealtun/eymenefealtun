@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 currently learning C#, and working on Management Information Systems
-- 👯 open to collaborating on Projects
+🔭- currently learning C#, and working on Management Information Systems
+👯- I'm open to collaborating on Projects
 
 
 
