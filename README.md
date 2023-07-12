@@ -5,6 +5,9 @@
 
 
 📫 [How to reach me](https://eymenefealtun.webflow.io/)
+
+[![](https://visitcount.itsvg.in/api?id=eymenefealtun&label=Profile%20Views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **XleRach/Xlerach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
