@@ -1,6 +1,6 @@
 ### Hi there I'm Eymen👋
 - 🔭 I'm currently learning C#
-- 👯 open to collaborating on Projects
+- 👯 open to collaborating on projects
 
 
 
