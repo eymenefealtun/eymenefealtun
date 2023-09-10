@@ -14,7 +14,7 @@
 
 📫 [How to reach me](https://linktr.ee/eymenefealtun)
 
-[![](https://visitcount.itsvg.in/api?id=eymenefealtun&label=Profile%20Views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eymenefealtun&label=Profile%20Views&color=12&icon=4&pretty=false)](https://github.com/eymenefealtun/WebsiteClicker)
 
 
 
