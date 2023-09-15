@@ -12,7 +12,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/altuneymenefe)
 
 
-📫 [How to reach me](https://linktr.ee/eymenefealtun)
+📫 [How to reach me](https://www.eymenefealtun.com/)
 
 
 
