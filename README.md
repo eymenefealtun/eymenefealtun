@@ -2,7 +2,7 @@
 - 🔭 I'm currently working on C#, and also learning Python
 - 👯 open to collaborating on projects
 
-
+![](https://komarev.com/ghpvc/?username=eymenefealtun&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
