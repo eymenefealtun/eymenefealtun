@@ -2,11 +2,6 @@
 - 🔭 I'm currently working on C#, and also learning Python
 - 👯 open to collaborating on projects
 
-![](https://komarev.com/ghpvc/?username=eymenefealtun&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
-
 ![Eymen's github stats](https://github-readme-stats.vercel.app/api/?username=eymenefealtun&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eymenefealtun&layout=compact)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/altuneymenefe)
