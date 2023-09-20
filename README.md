@@ -1,5 +1,5 @@
 ### Hi there I'm Eymen👋
-- 🔭 I'm currently working on C#
+- 🔭 I'm currently working on C#, and also learning Python
 - 👯 open to collaborating on projects
 
 
