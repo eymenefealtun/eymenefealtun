@@ -7,7 +7,6 @@
 
 📫 [How to reach me](https://www.eymenefealtun.com/)
 
-![](https://komarev.com/ghpvc/?username=eymenefealtun&style=flat-square)
 
 <!--
 **XleRach/Xlerach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
