@@ -2,7 +2,7 @@
 - 🔭 I'm currently working on C#, and also learning Python
 - 👯 open to collaborating on projects
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://hit.yhype.me/github/profile?user_id=125976557)
 
 ![Eymen's github stats](https://github-readme-stats.vercel.app/api/?username=eymenefealtun&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eymenefealtun&layout=compact)
