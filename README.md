@@ -1,5 +1,7 @@
 ### Hi there I'm Eymen👋
 
+- 🔭 I'm currently working on Solidity
+- 👯 open to collaborating on projects
 
 
 ![Eymen's github stats](https://github-readme-stats.vercel.app/api/?username=eymenefealtun&show_icons=true)
